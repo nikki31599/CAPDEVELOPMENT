@@ -1,0 +1,6 @@
+ID,startdate,enddate,Reason,createdAt,createdBy,modifiedAt,modifiedBy
+26534654-93dd-43df-8d76-b19d383afb09,2006-07-06,2011-04-30,Reason-26534654,2000-02-20T00:00:00.000Z,createdBy.fsq9q@example.org,2014-06-05T00:00:00.000Z,modifiedBy.fsq9q@example.org
+31306335-f752-4cec-ae83-651c6c91a817,2009-03-11,2010-10-18,Reason-31306335,2004-06-16T00:00:00.000Z,createdBy.in04f@example.net,2021-07-20T00:00:00.000Z,modifiedBy.in04f@example.com
+31306336-c4a1-4ab6-a3ca-ce5e6a07e5ef,2010-05-02,2005-04-24,Reason-31306336,2011-11-13T00:00:00.000Z,createdBy.in04g@example.com,2006-05-27T00:00:00.000Z,modifiedBy.in04g@example.com
+31306337-e446-4d16-b339-90af89a2cdf6,2004-10-01,2002-10-26,Reason-31306337,2018-04-10T00:00:00.000Z,createdBy.in04h@example.net,2009-07-15T00:00:00.000Z,modifiedBy.in04h@example.com
+31306338-1a81-4eab-9d01-3bd9a533346f,2020-08-13,2023-07-18,Reason-31306338,2009-01-17T00:00:00.000Z,createdBy.in04i@example.com,2011-09-06T00:00:00.000Z,modifiedBy.in04i@example.net
